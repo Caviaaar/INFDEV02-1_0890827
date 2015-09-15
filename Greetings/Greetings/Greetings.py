@@ -1,3 +1,3 @@
-name = raw_input("Whats your name? ")
+﻿name = raw_input("Whats your name? ")
 print "hello " + name
-print "How are you doing?"
+print "How are you doing? "
