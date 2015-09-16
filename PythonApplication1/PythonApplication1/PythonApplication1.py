@@ -4,3 +4,4 @@ for i in range (size/2):
     print "*" * size
 for i in range (size/2):
     print " " * size
+
