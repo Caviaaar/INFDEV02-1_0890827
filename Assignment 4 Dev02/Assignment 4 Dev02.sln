@@ -11,6 +11,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "absolute convert", "absolut
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RockPaperScissors", "RockPaperScissors\RockPaperScissors.pyproj", "{D6927CA7-F609-450C-A3DC-3DB260161CD4}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SpockLizzardRockPaperScissor", "SpockLizzardRockPaperScissor\SpockLizzardRockPaperScissor.pyproj", "{AB55F655-FB31-42F2-8189-353B556EFB87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,8 @@ Global
 		{707414B1-72C5-4A35-A68A-0BF4D5412813}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6927CA7-F609-450C-A3DC-3DB260161CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D6927CA7-F609-450C-A3DC-3DB260161CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB55F655-FB31-42F2-8189-353B556EFB87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB55F655-FB31-42F2-8189-353B556EFB87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
