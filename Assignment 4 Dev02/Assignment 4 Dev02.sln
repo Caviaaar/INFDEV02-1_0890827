@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Assignment 4 Dev02", "Assignment 4 Dev02\Assignment 4 Dev02.pyproj", "{AA39ECC2-FFCF-45A3-BC50-94EC68E288F8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Celsius to Kelvin", "Exercise 1B\Celsius to Kelvin.pyproj", "{7AE76F6C-AF2A-4547-8B19-6424A2215A2D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "absolute convert", "absolute convert\absolute convert.pyproj", "{707414B1-72C5-4A35-A68A-0BF4D5412813}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RockPaperScissors", "RockPaperScissors\RockPaperScissors.pyproj", "{D6927CA7-F609-450C-A3DC-3DB260161CD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA39ECC2-FFCF-45A3-BC50-94EC68E288F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA39ECC2-FFCF-45A3-BC50-94EC68E288F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE76F6C-AF2A-4547-8B19-6424A2215A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE76F6C-AF2A-4547-8B19-6424A2215A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707414B1-72C5-4A35-A68A-0BF4D5412813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707414B1-72C5-4A35-A68A-0BF4D5412813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6927CA7-F609-450C-A3DC-3DB260161CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6927CA7-F609-450C-A3DC-3DB260161CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
