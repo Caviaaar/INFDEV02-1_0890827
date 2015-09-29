@@ -63,10 +63,3 @@ if playerone and playertwo in ("rock", "paper", "scissor", "spock", "lizard"):
       else:
           print ("player two wins")
       print ("spock smashes scissor")
-
-
-
-    #rock smashes scissors
-    #rock spashes lizard
-    #paper cuts spock
-    #paper covers rock
